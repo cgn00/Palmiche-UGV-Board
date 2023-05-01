@@ -14,6 +14,3 @@ The design files provided in this repository include examples for connecting mot
 
 To use the Palmiche UGV Board, you will need to assemble the board according to the design files and connect it to the various components of your UGV. You can then upload the code from the robot_control repository to the Teensy 3.2 microcontroller to control your UGV.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
